@@ -4,7 +4,7 @@
 
 I've spent 25 years in enterprise IT, starting as a software engineer in C, C++ and Java and moving up to Delivery Executive. Today I lead IT services delivery across infrastructure, data and applications for a large enterprise customer at a Nordic IT services company.
 
-I'm now building toward AI architecture and engineering, hands-on. I've rebuilt my Python foundations (completing Harvard's **CS50P**) and I build with local LLMs. I want my advice on enterprise AI to rest on systems I've built and debugged myself, not on slideware.
+I'm now building toward AI architecture and engineering, hands-on. I've rebuilt my Python foundations (completing Harvard's **CS50P**) and I build with local LLMs. I want my advice on enterprise AI. 
 
 ---
 
